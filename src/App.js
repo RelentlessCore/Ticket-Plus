@@ -6,7 +6,7 @@ import MoviesPage from "./pages/MoviesPage";
 import TvPage from "./pages/TvPage"; 
  
 function App() { 
-  return (
+  return ( 
     <Router>
       <Routes>
         <Route path="/" exact element={<Home />} /> 
