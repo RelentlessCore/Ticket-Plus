@@ -4,7 +4,7 @@ import DetailsPage from "./pages/DetailsPage";
 import Home from "./pages/Home";
 import MoviesPage from "./pages/MoviesPage";
 import TvPage from "./pages/TvPage"; 
-
+ 
 function App() {
   return (
     <Router>
