@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import MoviesPage from "./pages/MoviesPage";
 import TvPage from "./pages/TvPage"; 
  
-function App() {
+function App() { 
   return (
     <Router>
       <Routes>
