@@ -12,7 +12,7 @@ function App() {
         <Route path="/" exact element={<Home />} /> 
         <Route path="/movies" element={<MoviesPage />} />
         <Route path="/tv" element={<TvPage />} />
-        <Route path="/movie/:movieId" element={<DetailsPage movie={true}/>} /> 
+        <Route path="/movie/:movieId" element={<DetailsPage movie={true}/>} />  
         <Route path="/tv/:movieId" element={<DetailsPage movie={false}/>} />
       </Routes>
     </Router>  
