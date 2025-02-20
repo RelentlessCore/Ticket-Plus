@@ -2,7 +2,7 @@ import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
 import "./App.css";
 import DetailsPage from "./pages/DetailsPage";
 import Home from "./pages/Home";
-import MoviesPage from "./pages/MoviesPage";
+import MoviesPage from "./pages/MoviesPage"; 
 import TvPage from "./pages/TvPage"; 
  
 function App() { 
