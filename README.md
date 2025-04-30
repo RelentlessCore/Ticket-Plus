@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# 🎬 TicketPlus – Movie & TV Streaming Platform  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **dynamic movie and TV streaming platform** powered by **React and the TMDB API**, delivering real-time content discovery with **genre-based filtering, smart search, and detailed media pages**. Users can explore trending movies or TV shows, view cast and production details, and get personalized recommendations—all within a **responsive, single-page app**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features  
 
-### `npm start`
+✅ **Live TMDB Integration** – Fetches the latest movies and shows from The Movie Database (TMDB).  
+✅ **Smart Search with Filtering** – Search by title, sort by rating, year, or popularity, and filter by genre.  
+✅ **Detailed Media Pages** – View cast, genres, ratings, synopsis, and producers in a sleek layout.  
+✅ **Recommended Content** – Automatically fetches similar titles for continued exploration.  
+✅ **Responsive UI with Skeleton Loaders** – Smooth transitions and a polished loading experience.  
+✅ **Client-Side Routing** – Navigate between pages without reloads using React Router.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔥 Tech Stack  
 
-### `npm test`
+- **Frontend:** React, CSS  
+- **Routing:** React Router DOM  
+- **API Integration:** TMDB API  
+- **Data Fetching:** Axios  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Why This Stands Out  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Built for movie enthusiasts and binge-watchers, this isn’t just another media site. With **live data from TMDB**, **dynamic genre selection**, and a **Netflix-like discovery flow**, it offers a highly interactive user experience.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+From smooth navigation to intelligent content recommendations, this project showcases how to build a fully responsive and feature-rich streaming interface—**powered entirely on the frontend.**
